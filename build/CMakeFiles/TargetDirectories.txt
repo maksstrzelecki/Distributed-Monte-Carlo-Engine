@@ -1,3 +1,0 @@
-/Users/maks/Desktop/Distributed-Monte-Carlo-Engine/build/CMakeFiles/app.dir
-/Users/maks/Desktop/Distributed-Monte-Carlo-Engine/build/CMakeFiles/edit_cache.dir
-/Users/maks/Desktop/Distributed-Monte-Carlo-Engine/build/CMakeFiles/rebuild_cache.dir

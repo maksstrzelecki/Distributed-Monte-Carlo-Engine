@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/src/Instrument.cpp.o CMakeFiles/app.dir/src/Stock.cpp.o CMakeFiles/app.dir/src/Portfolio.cpp.o CMakeFiles/app.dir/src/MarketScenario.cpp.o CMakeFiles/app.dir/src/Task.cpp.o CMakeFiles/app.dir/src/JobQueue.cpp.o -o app
