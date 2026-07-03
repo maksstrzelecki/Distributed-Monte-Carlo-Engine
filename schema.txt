@@ -1,0 +1,19 @@
+
+Klasa Instrument (moze to byc akcja obigacja itp) posiada:
+- wycene instrumentu
+
+Klasa scenariusz rynkowy:
+- zawiera procentowe spadki/wzrosty wyceny danego instrumentu
+- zawierać będzie implementacje odpowiedniego generatora tych procentów
+
+
+Jednostki wykowacze:
+
+* producenci:
+- tworzą wiele scenariuszy rynkowych i dodają do kolejki
+* konsumenci:
+- pobierają scenariusze z kolejki i na podstawie obecnego potfela liczą zyski i straty
+
+potrzebna jest szybka thread safe kolejka do tego
+
+
